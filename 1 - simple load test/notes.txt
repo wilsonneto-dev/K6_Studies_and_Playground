@@ -1,0 +1,2 @@
+Run with:
+npx k6 run --vus 40 --duration 30s ./test.js
